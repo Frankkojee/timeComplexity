@@ -7,7 +7,7 @@ public class App {
 // In each iteration reduce the value of N to half.
 // Increment the number_of_operation variable by one.
 // Return the number_of_operation variable.
-
+//log m
     static void logarithmic(){
         //initialize N as 16
         int N=16;
